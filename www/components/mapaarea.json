@@ -1,0 +1,99 @@
+{
+  "hostedData": [
+    {
+      "extraCriteria": "group_sic_code='581208'",
+      "columnNames": [],
+      "parameters": [
+        "581208"
+      ],
+      "tableName": "mqap.ntpois"
+    }
+  ],
+  "resultsCount": 3,
+  "origin": {
+    "dragPoint": false,
+    "displayLatLng": {
+      "lng": -46.6802,
+      "lat": -24.1075
+    },
+    "adminArea4": "Municipio De Mongaguá",
+    "adminArea5": "Mongaguá",
+    "postalCode": "11730-000",
+    "adminArea1": "BR",
+    "adminArea3": "SP",
+    "type": "s",
+    "sideOfStreet": "N",
+    "geocodeQualityCode": "A5XAX",
+    "adminArea4Type": "Municipio",
+    "linkId": 282041090,
+    "street": "",
+    "adminArea5Type": "Cidade",
+    "geocodeQuality": "Cidade",
+    "adminArea1Type": "País",
+    "adminArea3Type": "Estado",
+    "latLng": {
+      "lng": -46.6802,
+      "lat": -24.1075
+    }
+  },
+  "totalPages": 1,
+  "options": {
+    "kmlStyleUrl": "http://search-b2b.cloud.mapquest.com/kml-default.kml",
+    "shapeFormat": "raw",
+    "maxMatches": 3,
+    "pageSize": 3,
+    "ambiguities": false,
+    "units": "m",
+    "currentPage": 1,
+    "radius": 20
+  },
+  "searchResults": [
+    {
+      "distanceUnit": "m",
+      "distance": 0.0428,
+      "name": "Pizzaria Di Napoli",
+      "sourceName": "mqap.ntpois",
+      "resultNumber": 1,
+      "fields": {
+        "mqap_id": "183c95ba-6ea5-48f0-bbb4-3b6adcf3b499",
+        "country": "BR",
+        "address": "6000 Monteiro Lobato",
+        "lng": -46.658397,
+        "city": "Mongaguá",
+        "group_sic_code_name_ext": "(Todos) Restaurantes",
+        "group_sic_code": "581208",
+        "side_of_street": "R",
+        "disp_lng": -46.658397,
+        "phone": "(13) 3507-2091",
+        "group_sic_code_ext": "581208",
+        "group_sic_code_name": "(Todos) Restaurantes",
+        "name": "Pizzaria Di Napoli",
+        "disp_lat": -24.111675,
+        "state": "SP",
+        "id": "278030929",
+        "postal_code": "80203",
+        "mqap_geography": {
+          "latLng": {
+            "lng": -46.658397,
+            "lat": -24.111675
+          }
+        },
+        "lat": -24.111675
+      },
+      "key": "afBbkH6L7Q1vhevaj5NOL9vWipxf8tCR",
+      "shapePoints": [
+        -24.1075,
+        -46.6802
+      ]
+    }
+  ],
+  "info": {
+    "copyright": {
+      "imageAltText": "© 2019 MapQuest, Inc.",
+      "imageUrl": "http://api.mqcdn.com/res/mqlogo.gif",
+      "text": "© 2019 MapQuest, Inc."
+    },
+    "messages": [],
+    "statusCode": 0
+  }
+}
